@@ -88,7 +88,7 @@ npm start
 🌐 Deployment
 
 The project is deployed live at
-👉 expense-tracker-legend.netlify.app
+👉 https://expense-tracker-legend.netlify.app/
 
 
 ---
