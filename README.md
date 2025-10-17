@@ -3,7 +3,7 @@
 
 🧾 Expense Tracker – Legend Edition 💸
 
-Live Link: 👉 expense-tracker-legend.netlify.app
+Live Link: 👉https://expense-tracker-legend.netlify.app/
 
 
 
@@ -112,7 +112,7 @@ Login & user authentication system 👤
 Made with ❤️ by Aman Legends
 💼 [LinkedIn Profile (https://www.linkedin.com/in/aman-codes-97aa29366?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
 📧 Email: [amanansaricodes@gmail.com]
-🐙 GitHub: github.com/AmanLegendDev
+🐙 GitHub:https://github.com/AmanLegendDev/
 
 
 ---
